@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mon TP Pays</string>
+
+    <string name="country_congo">Congo (RDC)</string>
+    <string name="country_bresil">Bresil</string>
+    <string name="country_belgique">Belgique</string>
+    <string name="country_france">France</string>
+    <string name="country_norvege">Norvege</string>
+    <string name="country_chine">Chine</string>
+    <string name="country_usa">USA</string>
+    <string name="country_egypte">Egypte</string>
+    <string name="country_algerie">Algerie</string>
+    <string name="country_UK">Ukraine</string>
+
+    <string name="capitale_kinshasa">Kinshasa</string>
+    <string name="capitale_bresil">Brasilia</string>
+    <string name="capitale_bruxelles">Bruxelles</string>
+    <string name="capitale_paris">Paris</string>
+    <string name="capitale_oslo">Oslo</string>
+    <string name="capitale_pekin">Pekin</string>
+    <string name="capitale_wash">Washington</string>
+    <string name="capitale_caire">Le Caire</string>
+    <string name="capitale_alger">Alger</string>
+    <string name="capitale_kiev">Kiev</string>
+</resources>
